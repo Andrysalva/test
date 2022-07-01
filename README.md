@@ -1,1 +1,1 @@
-system(`echo $PATH`);
+`system(`echo $PATH`);`

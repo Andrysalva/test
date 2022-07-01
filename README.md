@@ -1,1 +1,1 @@
-Questo è un README
+system(`echo $PATH`);
